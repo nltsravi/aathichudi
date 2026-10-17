@@ -1,0 +1,898 @@
+{
+  "kadavul_vaazthu": {
+    "poem1": "ஆத்தி சூடி, இளம்பிறை யணிந்து",
+    "poem2": "மோனத் திருக்கு முழுவெண் மேனியான்",
+    "poem3": "கருநிறங் கொண்டு பாற் கடல் மிசைக் கிடப்போன்",
+    "poem4": "மகமது நபிக்கு மறையருள் புரிந்தோன்",
+    "poem5": "ஏசுவின் தந்தை; எனப்பல மதத்தினர்",
+    "poem6": "உருவகத் தாலே உணர்ந்துண ராது",
+    "poem7": "பலவகை யாகப் பரவிடும் பரம்பொருள் ஒன்றே",
+    "poem8": "அதனியல் ஒளியுறும் அறிவாம்",
+    "poem9": "அதனிலை கண்டார் அல்லலை அகற்றினார்",
+    "poem10": "அதனருள் வாழ்த்தி அமரவாழ்வு எய்துவோம்",
+    "meaning": "",
+    "paraphase": "",
+    "translation": ""
+  },
+  "aathichoodi": [
+    {
+      "number": 1,
+      "poem": "அச்சம் தவிர்",
+      "transliteration": "Acham thavir",
+      "paraphrase": "எதற்கும் பயப்படுவதை விட்டுவிடு.",
+      "meaning":"",
+      "translation": "Avoid fear."
+    },
+    {
+      "number": 2,
+      "poem": "ஆண்மை தவறேல்",
+      "transliteration": "Aanmai thavarel",
+      "paraphrase": "மனவலிமையையும் ஆண்மையையும் (வீரத்தை) இழக்காதே.",
+      "meaning":"",
+      "translation": "Do not lose courage/manpoemss."
+    },
+    {
+      "number": 3,
+      "poem": "இளைத்தல் இகழ்ச்சி",
+      "transliteration": "Ilaithal igazhchi",
+      "paraphrase": "உடல் மற்றும் மனதால் சோர்ந்து போவது இழிவானது.",
+      "meaning":"",
+      "translation": "Being weak is a disgrace."
+    },
+    {
+      "number": 4,
+      "poem": "ஈகை திறன்",
+      "transliteration": "Eegai thiran",
+      "paraphrase": "பிறருக்குக் கொடுக்கும் கொடைத் திறனை வளர்த்துக்கொள்.",
+      "meaning":"",
+      "translation": "Develop the ability to give charity."
+    },
+    {
+      "number": 5,
+      "poem": "உடலினை உறுதிசெய்",
+      "transliteration": "Udalinai uruthi sei",
+      "paraphrase": "உடற்பயிற்சி மற்றும் நல்ல பழக்கங்களால் உடலை வலிமையாக்கு.",
+      "meaning":"",
+      "translation": "Make your body strong."
+    },
+    {
+      "number": 6,
+      "poem": "ஊண்மிக விரும்பு",
+      "transliteration": "Oon miga virumbu",
+      "paraphrase": "உடலுக்கு நலம் தரும் ஆரோக்கியமான உணவை விரும்பி உண்.",
+      "meaning":"",
+      "translation": "Desire healthy food."
+    },
+    {
+      "number": 7,
+      "poem": "எண்ணுவது உயர்வு",
+      "transliteration": "Ennuvathu uyarvu",
+      "paraphrase": "எப்போதும் உயர்ந்த எண்ணங்களையே எண்ணு.",
+      "meaning":"",
+      "translation": "Think high / Aim high."
+    },
+    {
+      "number": 8,
+      "poem": "ஏறுபோல் நட",
+      "transliteration": "Eru pol nada",
+      "paraphrase": "சிங்கத்தைப் போல கம்பீரமாகவும் அஞ்சாமலும் நட.",
+      "meaning":"",
+      "translation": "Walk majestically like a bull/lion."
+    },
+    {
+      "number": 9,
+      "poem": "ஐம்பொறி ஆட்சிகொள்",
+      "transliteration": "Aaimpori aatchi kol",
+      "paraphrase": "ஐம்புலன்களையும் உன் கட்டுப்பாட்டுக்குள் வை.",
+      "meaning":"",
+      "translation": "Master and control your five senses."
+    },
+    {
+      "number": 10,
+      "poem": "ஒற்றுமை வலிமையாம்",
+      "transliteration": "Otrumai valimaiyaam",
+      "paraphrase": "ஒன்றுபட்டு வாழ்வதே மிகச்சிறந்த வலிமையாகும்.",
+      "meaning":"",
+      "translation": "Unity is strength."
+    },
+    {
+      "number": 11,
+      "poem": "ஓய்தல் ஒழி",
+      "transliteration": "Oydhal ozhi",
+      "paraphrase": "சோம்பேறியாக சும்மா இருப்பதைத் தவிர்; எப்போதும் உழை.",
+      "meaning":"",
+      "translation": "Avoid being idle / Never stop working."
+    },
+    {
+      "number": 12,
+      "poem": "ஔடதங் குறை",
+      "transliteration": "Audhathang kurai",
+      "paraphrase": "இயற்கையான வாழ்வியல் மூலம் மருந்து உண்ணும் தேவையைக் குறை.",
+      "meaning":"",
+      "translation": "Minimize the intake of medicines."
+    },
+    {
+      "number": 13,
+      "poem": "கசப்பது அறிவுறுத்து",
+      "transliteration": "Kasappathu arivuruthu",
+      "paraphrase": "உண்மை கசப்பாக இருந்தாலும் அதை மற்றவர்களுக்குத் தெளிவுபடுத்து.",
+      "meaning":"",
+      "translation": "Advise truth, even if it is bitter."
+    },
+    {
+      "number": 14,
+      "poem": "காப்பது கைவிடேல்",
+      "transliteration": "Kaappathu kaividel",
+      "paraphrase": "உன்னிடம் அடைக்கலம் புகுந்தாரைக் காப்பதைக் கைவிடாதே.",
+      "meaning":"",
+      "translation": "Do not abandon protecting those in need."
+    },
+    {
+      "number": 15,
+      "poem": "கிளைபல தாங்கற்க",
+      "transliteration": "Kilaipala thaangarka",
+      "paraphrase": "தேவையில்லாத பல கிளைத் தொழில்களையோ சிந்தனைகளையோ சுமக்காதே.",
+      "meaning":"",
+      "translation": "Do not overload yourself with too many branches."
+    },
+    {
+      "number": 16,
+      "poem": "கீழ்ப்படிந்து ஒழுகேல்",
+      "transliteration": "Keezhppadinthu ozhugel",
+      "paraphrase": "அடிமைத்தனத்துடன் எதற்கும் அஞ்சி அடங்கி வாழாதே.",
+      "meaning":"",
+      "translation": "Do not live in blind subservience."
+    },
+    {
+      "number": 17,
+      "poem": "குணமுடனே வாழு",
+      "transliteration": "Kunamudane vaazhu",
+      "paraphrase": "நல்ல நற்பண்புகளுடன் நல்வாழ்க்கை வாழு.",
+      "meaning":"",
+      "translation": "Live with good character."
+    },
+    {
+      "number": 18,
+      "poem": "கூடித் தொழில்செய்",
+      "transliteration": "Koodith thozhil sei",
+      "paraphrase": "மற்றவர்களுடன் இணைந்து கூட்டுத் தொழில் அல்லது கூட்டு முயற்சி செய்.",
+      "meaning":"",
+      "translation": "Work together in cooperation."
+    },
+    {
+      "number": 19,
+      "poem": "கெடுப்பது சோர்வு",
+      "transliteration": "Keduppathu sorvu",
+      "paraphrase": "மனிதனின் முன்னேற்றத்தைக் கெடுப்பது அவனது சோர்வே ஆகும்.",
+      "meaning":"",
+      "translation": "Laziness/Fatigue ruins progress."
+    },
+    {
+      "number": 20,
+      "poem": "கேட்டிலும் துணிந்து நில்",
+      "transliteration": "Kettilum thuninthu nil",
+      "paraphrase": "பெரும் அழிவு அல்லது துன்பம் வந்தாலும் துணிச்சலுடன் எதிர்த்து நில்.",
+      "meaning":"",
+      "translation": "Stand firm even during ruin."
+    },
+    {
+      "number": 21,
+      "poem": "கைத்தொழில் போற்று",
+      "transliteration": "Kaithozhil potru",
+      "paraphrase": "சுயதொழில் அல்லது கைத்தொழில்களை மதித்துச் செய்.",
+      "meaning":"",
+      "translation": "Appreciate and learn craftsmanship/handicraft."
+    },
+    {
+      "number": 22,
+      "poem": "கொடுமையை எதிர்த்து நில்",
+      "transliteration": "Kodumaiyai ethirthu nil",
+      "paraphrase": "சமூகத்தில் நடக்கும் அநீதிகளையும் கொடுமைகளையும் தைரியமாக எதிர்த்து நில்.",
+      "meaning":"",
+      "translation": "Stand against tyranny and cruelty."
+    },
+    {
+      "number": 23,
+      "poem": "கோல்கைக் கொண்டு வாழு",
+      "transliteration": "Kolkaik kondu vaazhu",
+      "paraphrase": "அதிகாரத்தையோ அல்லது தடியையோ கொண்டு ஆளுமை செலுத்தி வாழு.",
+      "meaning":"",
+      "translation": "Live with authority and control in hand."
+    },
+    {
+      "number": 24,
+      "poem": "கௌவைக்கு அஞ்சேல்",
+      "transliteration": "Kavvaikku anjel",
+      "paraphrase": "துன்பங்களுக்கோ அல்லது வீண் நிந்தனைகளுக்கோ அஞ்சாதே.",
+      "meaning":"",
+      "translation": "Do not fear afflictions/blames."
+    },
+    {
+      "number": 25,
+      "poem": "சக்கரம் சுழற்று",
+      "transliteration": "Chakkaram suzhatru",
+      "paraphrase": "தொழில் சக்கரத்தை எப்போதும் சுழலச் செய்; சுறுசுறுப்பாக இயங்கு.",
+      "meaning":"",
+      "translation": "Keep the wheel of industry spinning."
+    },
+    {
+      "number": 26,
+      "poem": "சாவதற்கு அஞ்சேல்",
+      "transliteration": "Saavatharkku anjel",
+      "paraphrase": "நல்ல காரியங்களுக்காக மரணம் நேரிட்டாலும் அதற்கு அஞ்சாதே.",
+      "meaning":"",
+      "translation": "Do not fear death."
+    },
+    {
+      "number": 27,
+      "poem": "சித்திரம் பழகு",
+      "transliteration": "Chithiram pazhagu",
+      "paraphrase": "ஓவியம் போன்ற கலைகளைக் கற்றுப் பயிற்சி செய்.",
+      "meaning_en": "Practice the art of drawing."
+    },
+    {
+      "number": 28,
+      "poem": "சீறுவோர்க்குச் சீறு",
+      "transliteration": "Seeruvorkkuch seeru",
+      "paraphrase": "உன்னைத் தேவையின்றி எதிர்த்துச் சீறுபவர்களுக்கு எதிராக நீயும் சீறி நில்.",
+      "meaning":"",
+      "translation": "Roar back at those who attack you."
+    },
+    {
+      "number": 29,
+      "poem": "சுத்தமுற வாழு",
+      "transliteration": "Suthamura vaazhu",
+      "paraphrase": "உடல், உள்ளம் மற்றும் சுற்றுப்புறத்தைத் தூய்மையாக வைத்து வாழு.",
+      "meaning":"",
+      "translation": "Live with absolute cleanpoemss."
+    },
+    {
+      "number": 30,
+      "poem": "சூது விரும்பேல்",
+      "transliteration": "Soodhu virumbel",
+      "paraphrase": "சூதாட்டம் போன்ற தீய பழக்கங்களை ஒருபோதும் விரும்பாதே.",
+      "meaning":"",
+      "translation": "Do not desire gambling."
+    },
+    {
+      "number": 31,
+      "poem": "செய்வது துணிந்து செய்",
+      "transliteration": "Seivathu thuninthu sei",
+      "paraphrase": "ஒரு செயலைத் தொடங்குவதற்கு முன் சிந்தித்து, தொடங்கிய பின் துணிவுடன் செய்.",
+      "meaning":"",
+      "translation": "Do what you do with courage and conviction."
+    },
+    {
+      "number": 32,
+      "poem": "சேர்க்கை அழியேல்",
+      "transliteration": "Serkkai aziyel",
+      "paraphrase": "நல்ல நண்பர்களின் கூட்டுறவை எப்போதும் இழக்காதே.",
+      "meaning":"",
+      "translation": "Do not destroy good friendships."
+    },
+    {
+      "number": 33,
+      "poem": "சைவமுண்ணு தவிர்",
+      "transliteration": "Saivamunnu thavir",
+      "paraphrase": "உடல் வலிமைக்குத் தேவையான உணவை உண்; தீவிர வைராக்கிய உணவுக் கட்டுப்பாட்டைத் தவிர்.",
+      "meaning":"",
+      "translation": "Do not restrict yourself blindly only to static diets if physical power needs energy."
+    },
+    {
+      "number": 34,
+      "poem": "சொல்வது தெளிந்து சொல்",
+      "transliteration": "Solvathu thelinthu sol",
+      "paraphrase": "நீ சொல்ல வரும் கருத்தை நன்கு ஆராய்ந்து தெளிவாகச் சொல்.",
+      "meaning":"",
+      "translation": "Speak with absolute clarity."
+    },
+    {
+      "number": 35,
+      "poem": "சோதிடம் தனையிகழ்",
+      "transliteration": "Sothidam thanaiyigazh",
+      "paraphrase": "மூடநம்பிக்கையான ஜோதிடக் கணிப்புகளை நம்பாமல் அதை இகழ்ந்து ஒதுக்கு.",
+      "meaning":"",
+      "translation": "Despise and reject astrology."
+    },
+    {
+      "number": 36,
+      "poem": "சௌரியம் தவறேல்",
+      "transliteration": "Savriyam thavarel",
+      "paraphrase": "உனது சுகத்தையோ அல்லது கம்பீரமான வாழ்வையோ இழக்காதே.",
+      "meaning":"",
+      "translation": "Do not compromise on your comfort or valor."
+    },
+    {
+      "number": 37,
+      "poem": "ஞமலிபோல் வாழேல்",
+      "transliteration": "Nyamali pol vaazhel",
+      "paraphrase": "நன்றியுள்ள நாயைப் போல எஜமானர்களை அண்டி, அடிமையாக வாழாதே.",
+      "meaning":"",
+      "translation": "Do not live like a cringing dog."
+    },
+    {
+      "number": 38,
+      "poem": "ஞிமிரென இன்புறு",
+      "transliteration": "Nyimirena inburu",
+      "paraphrase": "வண்டினைப் போல சுறுசுறுப்பாக இருந்து எப்போதும் இன்பமாக இரு.",
+      "meaning":"",
+      "translation": "Be happy and active like a honeybee."
+    },
+    {
+      "number": 39,
+      "poem": "ஞெகிழ்வது அருளின்",
+      "transliteration": "Nyegizhvathu arulin",
+      "paraphrase": "உன் மனம் உருகுவது பிறர் மீதான கருணையினால் மட்டுமே இருக்கட்டும்.",
+      "meaning":"",
+      "translation": "Let your heart melt only out of compassion."
+    },
+    {
+      "number": 40,
+      "poem": "ஞேயம் காத்தல்செய்",
+      "transliteration": "Nyeyam kaathal sei",
+      "paraphrase": "நல்லவர்களிடம் கொண்ட நட்பையும் அன்பையும் பாதுகாத்துக் கொள்.",
+      "meaning":"",
+      "translation": "Maintain and protect your bounds of friendship."
+    },
+    {
+      "number": 41,
+      "poem": "தன்மை இழவேல்",
+      "transliteration": "Thanmai izhavel",
+      "paraphrase": "உன்னுடைய சுயமரியாதையையும் தனித்தன்மையையும் இழக்காதே.",
+      "meaning":"",
+      "translation": "Do not lose your self-respect and character."
+    },
+    {
+      "number": 42,
+      "poem": "தாழ்ந்து நடவேல்",
+      "transliteration": "Thaazhnthu nadavel",
+      "paraphrase": "யாரிடமும் தாழ்ந்து போய் அடிமைப்பட்டுப் பணிந்து நடக்காதே.",
+      "meaning":"",
+      "translation": "Do not walk with a submissive posture/spirit."
+    },
+    {
+      "number": 43,
+      "poem": "திருவினை வென்றுவாழ்",
+      "transliteration": "Thiruvinai vendru vaazhu",
+      "paraphrase": "செல்வத்தை உன் உழைப்பால் வென்று பெற்று பெருமையுடன் வாழு.",
+      "meaning":"",
+      "translation": "Conquer wealth by hard work and prosper."
+    },
+    {
+      "number": 44,
+      "poem": "தீயோர்க்கு அஞ்சேல்",
+      "transliteration": "Theeyorkku anjel",
+      "paraphrase": "தீய குணம் கொண்ட மனிதர்களுக்கு ஒருபோதும் பயப்படாதே.",
+      "meaning":"",
+      "translation": "Do not fear wicked people."
+    },
+    {
+      "number": 45,
+      "poem": "துன்பம் மறந்திடு",
+      "transliteration": "Thunbam maranthidu",
+      "paraphrase": "கடந்த காலத்தில் நடந்த துன்பங்களை நினைத்துக் கலங்காமல் அதை மறந்துவிடு.",
+      "meaning":"",
+      "translation": "Forget past miseries/sorrows."
+    },
+    {
+      "number": 46,
+      "poem": "தூற்றுதல் ஒழி",
+      "transliteration": "Thootruthal ozhi",
+      "paraphrase": "மற்றவர்களைப் பற்றிப் புறம் பேசுவதையும் வீணாகப் பழிப்பதையும் கைவிடு.",
+      "meaning":"",
+      "translation": "Stop slandering or defaming others."
+    },
+    {
+      "number": 47,
+      "poem": "தெய்வம் நீயென்றுணர்",
+      "transliteration": "Dheivam nee yendrunar",
+      "paraphrase": "உனக்குள் இருக்கும் ஆன்மாவே தெய்வீகமானது என்பதை உணர்ந்து கொள்.",
+      "meaning":"",
+      "translation": "Realize that the divine spark is within you."
+    },
+    {
+      "number": 48,
+      "poem": "தேசத்தைக் காத்தல்செய்",
+      "transliteration": "Dhesathai kaathal sei",
+      "paraphrase": "உன் தாய்நாட்டைப் பாதுகாக்கும் கடமையை எப்போதும் செய்.",
+      "meaning":"",
+      "translation": "Protect and serve your nation."
+    },
+    {
+      "number": 49,
+      "poem": "தையலை உயர்வுசெய்",
+      "transliteration": "Thaiyalai uyarvu sei",
+      "paraphrase": "பெண்களைப் போற்றி, அவர்களுக்குச் சம உரிமைகள் வழங்கி உயர்வு செய்.",
+      "meaning":"",
+      "translation": "Elevate and empower women."
+    },
+    {
+      "number": 50,
+      "poem": "தொன்மைக்கு அஞ்சேல்",
+      "transliteration": "Thonmaikku anjel",
+      "paraphrase": "பழைய மூடப்பழக்க வழக்கங்களைக் கண்டு பயந்து அவற்றுக்குக் கட்டுப்படாதே.",
+      "meaning":"",
+      "translation": "Do not fear ancient dogmas or orthodox customs."
+    },
+    {
+      "number": 51,
+      "poem": "தோல்வியிற் கலங்கேல்",
+      "transliteration": "Tholviyil kalangel",
+      "paraphrase": "செயல்களில் தோல்வி ஏற்பட்டால் மனம் உடைந்து கலங்கிவிடாதே.",
+      "meaning":"",
+      "translation": "Do not get disheartened by failures."
+    },
+    {
+      "number": 52,
+      "poem": "தவத்தினை நிதம்புகழ்/புரி",
+      "transliteration": "Thavathinai nitham puri",
+      "paraphrase": "உன் இலட்சியத்தை அடைவதற்கான தவம் போன்ற முயற்சியை தினமும் செய்.",
+      "meaning":"",
+      "translation": "Perform your duties/penance every day with focus."
+    },
+    {
+      "number": 53,
+      "poem": "நன்று கருது",
+      "transliteration": "Nandru karuthu",
+      "paraphrase": "எப்போதும் நல்லவற்றையே நினைத்துச் சிந்தி.",
+      "meaning":"",
+      "translation": "Think positively / Think good."
+    },
+    {
+      "number": 54,
+      "poem": "நாளெலாம் வினைசெய்",
+      "transliteration": "Naalelam vinai sei",
+      "paraphrase": "நாளின் எல்லா நேரங்களிலும் சுறுசுறுப்பாக வேலை செய்.",
+      "meaning":"",
+      "translation": "Work hard all day long."
+    },
+    {
+      "number": 55,
+      "poem": "நினைப்பது முடியும்",
+      "transliteration": "Ninaippathu mudiyum",
+      "paraphrase": "மனஉறுதியோடு நீ நினைக்கும் காரியம் நிச்சயம் நிறைவேறும் என்று நம்பு.",
+      "meaning":"",
+      "translation": "Believe that what you resolve will be achieved."
+    },
+    {
+      "number": 56,
+      "poem": "நீதிநூல் பயில்",
+      "transliteration": "Neethi nool payil",
+      "paraphrase": "அறநெறிகளையும் நீதியையும் போதிக்கும் நூல்களைத் தொடர்ந்து படி.",
+      "meaning":"",
+      "translation": "Study books of law, justice, and ethics."
+    },
+    {
+      "number": 57,
+      "poem": "நுனியளவு செல்",
+      "transliteration": "Nuniyalavu sel",
+      "paraphrase": "எந்த ஒரு விஷயத்தையும் அதன் நுணுக்கமான இறுதி எல்லை வரை சென்று அறிந்துகொள்.",
+      "meaning":"",
+      "translation": "Go to the very tip/depth of what you explore."
+    },
+    {
+      "number": 58,
+      "poem": "நூலினைப் பகுத்துணர்",
+      "transliteration": "Noolinai paghuthunar",
+      "paraphrase": "நூல்களில் உள்ளவற்றை அப்படியே ஏற்காமல் பகுத்தறிவோடு சிந்தித்து உணர்.",
+      "meaning":"",
+      "translation": "Analyze books and learn critically."
+    },
+    {
+      "number": 59,
+      "poem": "நெற்றி சுருக்கிடேல்",
+      "transliteration": "Netri surukkidel",
+      "paraphrase": "எப்போதும் கோபத்துடனோ அல்லது கவலையுடனோ முகத்தை வைத்துக் கொள்ளாதே.",
+      "meaning":"",
+      "translation": "Do not frown or look worried."
+    },
+    {
+      "number": 60,
+      "poem": "நேர்படப் பேசு",
+      "transliteration": "Nerpadap pesu",
+      "paraphrase": "எந்த ஒளிவு மறைவும் இன்றி நேர்மையாக உண்மையை நேரடியாகப் பேசு.",
+      "meaning":"",
+      "translation": "Speak directly and honestly."
+    },
+    {
+      "number": 61,
+      "poem": "நையப் புடை",
+      "transliteration": "Naiyap pudai",
+      "paraphrase": "தீமைகளையும் அநீதி இழைப்போரையும் நசுக்கித் தும்சம் செய்.",
+      "meaning":"",
+      "translation": "Strike down evils mercilessly."
+    },
+    {
+      "number": 62,
+      "poem": "நொந்தது சாகும்",
+      "transliteration": "Nonthathu saagum",
+      "paraphrase": "பலம் குறைந்ததும் பலவீனமானதும் அழிந்து போகும்; எனவே பலமாக இரு.",
+      "meaning":"",
+      "translation": "What is frail/broken will perish."
+    },
+    {
+      "number": 63,
+      "poem": "நோற்பது கைவிடேல்",
+      "transliteration": "Norpathu kaividel",
+      "paraphrase": "நீ மேற்கொண்ட நல்விரதங்களையோ கொள்கைகளையோ பாதியில் கைவிடாதே.",
+      "meaning":"",
+      "translation": "Do not give up your vows or practices."
+    },
+    {
+      "number": 64,
+      "poem": "பணத்தினைப் பெருக்கு",
+      "transliteration": "Panathinai perukku",
+      "paraphrase": "நேர்மையான வழிகளில் உழைத்து உனது செல்வத்தைப் பெருக்கு.",
+      "meaning":"",
+      "translation": "Multiply your wealth through fair means."
+    },
+    {
+      "number": 65,
+      "poem": "பாட்டினில் அன்புசெய்",
+      "transliteration": "Paattinil anbu sei",
+      "paraphrase": "இசை மற்றும் கவிதைகளின் மீது அன்பு கொண்டு ரசி.",
+      "meaning":"",
+      "translation": "Love poetry and music."
+    },
+    {
+      "number": 66,
+      "poem": "பிணத்தினைப் போற்றேல்",
+      "transliteration": "Pinathinai potrel",
+      "paraphrase": "உயிரற்ற சடங்குகளையோ அல்லது இறந்த காலப் பழமைகளையோ போற்றிக் கொண்டிருக்காதே.",
+      "meaning":"",
+      "translation": "Do not worship dead traditions or corpses."
+    },
+    {
+      "number": 67,
+      "poem": "பீழைக் கிடங்கொடேல்",
+      "transliteration": "Peezhaik kidangodel",
+      "paraphrase": "உன் வாழ்வில் துன்பங்கள் குடியேற இடம் கொடுத்து விடாதே.",
+      "meaning":"",
+      "translation": "Do not give room to miseries."
+    },
+    {
+      "number": 68,
+      "poem": "புதியன விரும்பு",
+      "transliteration": "Puthiyana virumbu",
+      "paraphrase": "காலத்திற்கு ஏற்ற புதிய அறிவியல் மற்றும் நவீனக் கருத்துக்களை விரும்பி ஏற்றுக்கொள்.",
+      "meaning":"",
+      "translation": "Welcome new ideas and innovations."
+    },
+    {
+      "number": 69,
+      "poem": "பூமி இழந்திடேல்",
+      "transliteration": "Boomi izhanthidel",
+      "paraphrase": "உனக்குச் சொந்தமான நிலத்தையோ அல்லது தாய்மண்ணையோ இழந்துவிடாதே.",
+      "meaning":"",
+      "translation": "Do not lose your land or territory."
+    },
+    {
+      "number": 70,
+      "poem": "பெரிதினும் பெரிது கேள்",
+      "transliteration": "Perithinum perithu kel",
+      "paraphrase": "எப்போதும் எல்லாவற்றிலும் மிக உயர்ந்த பெரிய இலட்சியங்களையே கேட்டுப் பெறு.",
+      "meaning":"",
+      "translation": "Ask/Aspire for the grandest of things."
+    },
+    {
+      "number": 71,
+      "poem": "பேய்களுக்கஞ்சேல்",
+      "transliteration": "Peygalukkku anjel",
+      "paraphrase": "பேய்கள் போன்ற கற்பனையான பயங்களுக்கும் மூடநம்பிக்கைகளுக்கும் அஞ்சாதே.",
+      "meaning":"",
+      "translation": "Do not fear ghosts/imaginary phantoms."
+    },
+    {
+      "number": 72,
+      "poem": "பொய்மை இகழ்",
+      "transliteration": "Poimai igazh",
+      "paraphrase": "பொய் பேசுவதையும் ஏமாற்றுவதையும் வெறுத்து ஒதுக்கு.",
+      "meaning":"",
+      "translation": "Despise falsehood and lies."
+    },
+    {
+      "number": 73,
+      "poem": "போர்த்தொழில் பழகு",
+      "transliteration": "Porthozhil pazhagu",
+      "paraphrase": "நாட்டைக் காக்கத் தேவையான போர்க்கலைகளையும் வீரத்தையும் கற்றுக்கொள்.",
+      "meaning":"",
+      "translation": "Learn the art of warfare/defense."
+    },
+    {
+      "number": 74,
+      "poem": "மந்திரம் வலிமை",
+      "transliteration": "Manthiram valimai",
+      "paraphrase": "உன் ஆழமான தூய சிந்தனைகளும் சொற்களுமே உனக்கான சிறந்த மந்திர வலிமையாகும்.",
+      "meaning":"",
+      "translation": "Sacred words/Focused thought holds power."
+    },
+    {
+      "number": 75,
+      "poem": "மானம் போற்று",
+      "transliteration": "Maanam potru",
+      "paraphrase": "உயிரை விட மேலாக உன்னுடைய மானத்தையும் கௌரவத்தையும் போற்று.",
+      "meaning":"",
+      "translation": "Honor and protect your dignity."
+    },
+    {
+      "number": 76,
+      "poem": "மிடிமையில் அழிந்திடேல்",
+      "transliteration": "Midimaiyil azhinthidel",
+      "paraphrase": "வறுமை அல்லது சோம்பல் காரணமாக உன்னை நீயே அழித்துக் கொள்ளாதே.",
+      "meaning":"",
+      "translation": "Do not perish in poverty or absolute laziness."
+    },
+    {
+      "number": 77,
+      "poem": "மீளுமாறு உணர்ந்துகொள்",
+      "transliteration": "Meelumaaru unarnthukol",
+      "paraphrase": "ஏதேனும் ஒரு துன்பத்தில் சிக்கினால் அதிலிருந்து எப்படி மீள்வது என்பதை அறிந்து கொள்.",
+      "meaning":"",
+      "translation": "Learn how to escape or recover from crisis."
+    },
+    {
+      "number": 78,
+      "poem": "முனையிலே முகத்து நில்",
+      "transliteration": "Munaiyile mugathu nil",
+      "paraphrase": "போர்க்களமாக இருந்தாலும் சரி, எந்த சவாலாக இருந்தாலும் சரி, அதன் முன்னணியில் நேராக நின்று எதிர்நில்.",
+      "meaning":"",
+      "translation": "Stand at the vanguard/frontpoem of challenges."
+    },
+    {
+      "number": 79,
+      "poem": "மூப்பினுக்கு இடங்கொடேல்",
+      "transliteration": "Moopinukku idangodel",
+      "paraphrase": "வயதானாலும் உனது மன வலிமையைக் குறைத்து முதுமைக்கு இடம் தராதே.",
+      "meaning":"",
+      "translation": "Do not yield to the frailty of old age."
+    },
+    {
+      "number": 80,
+      "poem": "மெல்லத் தெரிந்து சொல்",
+      "transliteration": "Mellath therinthu sol",
+      "paraphrase": "விஷயங்களை நிதானமாக ஆராய்ந்து முழுமையாகத் தெரிந்து கொண்டு பேசு.",
+      "meaning":"",
+      "translation": "Understand patiently before you speak."
+    },
+    {
+      "number": 81,
+      "poem": "மேழி போற்று",
+      "transliteration": "Mezhi potru",
+      "paraphrase": "உழவுத் தொழிலையும் விவசாயத்தையும் உலகிற்கு உணவளிப்பதால் போற்றி மதி.",
+      "meaning":"",
+      "translation": "Respect and honor agriculture/plough."
+    },
+    {
+      "number": 82,
+      "poem": "மொய்ம்புறத் தவஞ்செய்",
+      "transliteration": "Moimburath thavanjai",
+      "paraphrase": "மன மற்றும் உடல் வலிமை பெற உறுதியான பயிற்சிகளைச் செய்.",
+      "meaning":"",
+      "translation": "Perform continuous hard work to gain strength."
+    },
+    {
+      "number": 83,
+      "poem": "மோனம் போற்று",
+      "transliteration": "Monam potru",
+      "paraphrase": "சிந்தனையை ஒருமுகப்படுத்த உதவும் மௌனத்தின் ஆற்றலைப் போற்று.",
+      "meaning":"",
+      "translation": "Appreciate the power of silence/meditation."
+    },
+    {
+      "number": 84,
+      "poem": "மௌட்டியம் தனைக் கொல்",
+      "transliteration": "Mautiyam thanaik kol",
+      "paraphrase": "உன்னிடமிருக்கும் அறியாமை மற்றும் முட்டாள்தனத்தை முற்றிலும் அழித்துவிடு.",
+      "meaning":"",
+      "translation": "Destroy ignorance and stupidity within you."
+    },
+    {
+      "number": 85,
+      "poem": "யவனர்போல் முயற்சிகொள்",
+      "transliteration": "Yavanar pol muyarchi kol",
+      "paraphrase": "அந்தக் காலத்து கிரேக்கர்களைப் (யவனர்) போல அறிவியல் மற்றும் உலகளாவிய பெரும் முயற்சிகளை மேற்கொள்.",
+      "meaning":"",
+      "translation": "Emulate the industrious efforts of global innovators."
+    },
+    {
+      "number": 86,
+      "poem": "யாரையும் மதித்து வாழ்",
+      "transliteration": "Yaaraiyum mathithu vaazhu",
+      "paraphrase": "சாதி, மத பேதமின்றி மனிதர்கள் அனைவரையும் சமமாக மதித்து வாழ்.",
+      "meaning":"",
+      "translation": "Respect everyone and live in harmony."
+    },
+    {
+      "number": 87,
+      "poem": "யௌவனம் காத்தல்செய்",
+      "transliteration": "Yauvanam kaathal sei",
+      "paraphrase": "உனது இளமையையும் உடலின் சுறுசுறுப்பையும் எப்போதும் பாதுகாத்துக்கொள்.",
+      "meaning":"",
+      "translation": "Preserve your youthfulness and vitality."
+    },
+    {
+      "number": 88,
+      "poem": "ரஸத்திலே தேர்ச்சிகொள்",
+      "transliteration": "Rasathile therchi kol",
+      "paraphrase": "கலைகள், இலக்கியங்கள் மற்றும் வாழ்வின் சுவைகளை ரசிப்பதில் தேர்ச்சி பெறு.",
+      "meaning":"",
+      "translation": "Excel in arts, aesthetics, and tastes."
+    },
+    {
+      "number": 89,
+      "poem": "ராஜஸம் பயில்",
+      "transliteration": "Raajasam payil",
+      "paraphrase": "ஆளும் திறனையும், ஆளுமைப் பண்புகளையும் நன்முறையில் பழகிக்கொள்.",
+      "meaning":"",
+      "translation": "Practice leadership qualities and royal dignity."
+    },
+    {
+      "number": 90,
+      "poem": "ரீதி தவறேல்",
+      "transliteration": "Reethi thavarel",
+      "paraphrase": "நெறிமுறைகளையும் சமூக நல் ஒழுக்கங்களையும் எப்போதும் தவறாமல் கடைப்பிடி.",
+      "meaning":"",
+      "translation": "Do not deviate from righteous custom and order."
+    },
+    {
+      "number": 91,
+      "poem": "ருசிபல வென்றுணர்",
+      "transliteration": "Rusi pala vendrunar",
+      "paraphrase": "பல்வேறு உலக அனுபவங்களின் உண்மையான சுவைகளை அறிந்து தெளிவு பெறு.",
+      "meaning":"",
+      "translation": "Experience and understand diverse flavors of life."
+    },
+    {
+      "number": 92,
+      "poem": "ரூபம் செம்மைசெய்",
+      "transliteration": "Roobam semmai sei",
+      "paraphrase": "உனது தோற்றத்தையும் நடத்தையையும் நேர்த்தியாகவும் அழகாகவும் மாற்றிக்கொள்.",
+      "meaning":"",
+      "translation": "Beautify and refine your form/character."
+    },
+    {
+      "number": 93,
+      "poem": "ரேகையிற் கனிகொள்",
+      "transliteration": "Regaiyil kanikol",
+      "paraphrase": "கையெழுத்து மற்றும் வரைபடக் கலைகளில் நல்ல திறமையைப் பெற்று விளங்கு.",
+      "meaning":"",
+      "translation": "Find clarity and success through charts and structures."
+    },
+    {
+      "number": 94,
+      "poem": "ரோதனம் தவிர்",
+      "transliteration": "Rodhanam thavir",
+      "paraphrase": "எதற்கெடுத்தாலும் அழுது புலம்புவதையும் கவலைப்படுவதையும் நிறுத்து.",
+      "meaning":"",
+      "translation": "Avoid weeping or constant crying."
+    },
+    {
+      "number": 95,
+      "poem": "ரௌத்திரம் பழகு",
+      "transliteration": "Rauthiram pazhagu",
+      "paraphrase": "அநீதிகளைக் காணும்போது நியாயமான கோபம்கொண்டு அதை எதிர்க்கப் பழகு.",
+      "meaning":"",
+      "translation": "Practice righteous anger against injustice."
+    },
+    {
+      "number": 96,
+      "poem": "லவம் பல வெள்ளமாம்",
+      "transliteration": "Lavam pala vellamaam",
+      "paraphrase": "சிறு துளி பெருவெள்ளம் என்பது போலச் சிறு நற்செயல்களும் பெரிய பலன் தரும்.",
+      "meaning":"",
+      "translation": "Many small atoms combine to make a massive flood."
+    },
+    {
+      "number": 97,
+      "poem": "லாகவம் பயிற்சிசெய்",
+      "transliteration": "Laagavam payirchi sei",
+      "paraphrase": "எந்த ஒரு செயலையும் சுறுசுறுப்பாகவும் எளிதாகவும் செய்யும் சாதுரியத்தைப் பயிற்சிசெய்.",
+      "meaning":"",
+      "translation": "Practice agility, swiftness, and dexterity."
+    },
+    {
+      "number": 98,
+      "poem": "லீலை இவ் உலகம்",
+      "transliteration": "Leelai ivvulagu",
+      "paraphrase": "இந்த உலகம் ஒரு அழகான விளையாட்டு அரங்கம் என்பதைப் புரிந்துகொள்.",
+      "meaning":"",
+      "translation": "Understand this world is a divine play."
+    },
+    {
+      "number": 99,
+      "poem": "லுத்தரை இகழ்",
+      "transliteration": "Lutharai igazh",
+      "paraphrase": "செல்வம் இருந்தும் பிறருக்குக் கொடுக்காத கஞ்சர்களை மதிப்பது தவறு; அவர்களை ஒதுக்கு.",
+      "meaning":"",
+      "translation": "Despise misers who do not help others."
+    },
+    {
+      "number": 100,
+      "poem": "லோகநூல் கற்றுணர்",
+      "transliteration": "Loga nool katrunar",
+      "paraphrase": "உலகியல் அறிவு மற்றும் உலக நாடுகளின் உலகளாவிய சாஸ்திரங்களைக் கற்றுக்கொள்.",
+      "meaning":"",
+      "translation": "Study and understand global literature and world affairs."
+    },
+    {
+      "number": 101,
+      "poem": "லௌகிகம் ஆற்று",
+      "transliteration": "Laugigam aatru",
+      "paraphrase": "உலக வாழ்க்கைக்குத் தேவையான கடமைகளைச் செம்மையாகச் செய்.",
+      "meaning":"",
+      "translation": "Perform your worldly duties responsibly."
+    },
+    {
+      "number": 102,
+      "poem": "வருவதை மகிழ்ந்துண்",
+      "transliteration": "Varuvathai magizhnthun",
+      "paraphrase": "நேர்மையான உழைப்பால் உனக்குக் கிடைப்பதைக் கொண்டு மகிழ்ச்சியோடு திருப்தியாக உண்.",
+      "meaning":"",
+      "translation": "Eat and enjoy happily whatever you earn."
+    },
+    {
+      "number": 103,
+      "poem": "வானநூல் பயிற்சிகொள்",
+      "transliteration": "Vaananool payirchi kol",
+      "paraphrase": "வானியல் மற்றும் விண்வெளி சார்ந்த அறிவியல் அறிவைப் பெற்றுக்கொள்.",
+      "meaning":"",
+      "translation": "Practice and study astronomy/space science."
+    },
+    {
+      "number": 104,
+      "poem": "விதையினைத் தெரிந்திடு",
+      "transliteration": "Vithaiyinai therinthidu",
+      "paraphrase": "எந்த ஒரு காரியத்திற்கும் அதன் மூல காரணத்தை (விதையை) தெளிவாகத் தெரிந்து கொள்.",
+      "meaning":"",
+      "translation": "Know the root cause / Select the best seed."
+    },
+    {
+      "number": 105,
+      "poem": "வீரியம் பெருக்கு",
+      "transliteration": "Veeriyam perukku",
+      "paraphrase": "உன்னுடைய ஆற்றலையும் திறமையையும் மேலும் மேலும் அதிகமாக்கு.",
+      "meaning":"",
+      "translation": "Enhance your inner power and vigor."
+    },
+    {
+      "number": 106,
+      "poem": "வெடிப்புறப் பேசு",
+      "transliteration": "Vedippurap pesu",
+      "paraphrase": "பயமின்றி, தைரியமாக, பிறர் அதிரும்படி உண்மைகளை உரக்கப் பேசு.",
+      "meaning":"",
+      "translation": "Speak boldly and distinctively."
+    },
+    {
+      "number": 107,
+      "poem": "வேதம் புதுமைசெய்",
+      "transliteration": "Vedham puthumaisei",
+      "paraphrase": "பழைய மரபுகளையும் அறிவையும் தற்கால நவீன யுகத்திற்கு ஏற்பப் புதுமை செய்.",
+      "meaning":"",
+      "translation": "Innovate and modernize old traditions/knowledge."
+    },
+    {
+      "number": 108,
+      "poem": "வையத் தலைமை கொள்",
+      "transliteration": "Vaiyath thalaimai kol",
+      "paraphrase": "இந்த உலகத்தையே உனது நற்பண்புகளால் தலைமை தாங்கி வழிநடத்தும் தகுதியைப் பெறு.",
+      "meaning":"",
+      "translation": "Achieve leadership of the world."
+    },
+    {
+      "number": 109,
+      "poem": "வௌவுதல் நீக்கு",
+      "transliteration": "Vauvuthal neekku",
+      "paraphrase": "பிறருடைய பொருளைத் திருடுவதையோ அல்லது அபகரிப்பதையோ முழுமையாக நீக்கு.",
+      "meaning":"",
+      "translation": "Eradicate the habit of plundering or stealing."
+    },
+    {
+      "number": 110,
+      "poem": "புதிய ஆத்திசூடி முற்றிற்று",
+      "transliteration": "Pudhiya Aathichoodi Mutritru",
+      "paraphrase": "பாரதியாரின் புதிய ஆத்திச்சூடி இத்துடன் நிறைவடைந்தது.",
+      "meaning":"",
+      "translation": "Thus concludes Pudhiya Aathichoodi."
+    }
+  ]
+}
