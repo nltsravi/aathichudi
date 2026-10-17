@@ -1,4 +1,4 @@
-package org.tamil.aathichudi
+package com.nts.aathichudi
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

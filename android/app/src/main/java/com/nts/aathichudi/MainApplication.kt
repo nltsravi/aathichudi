@@ -1,4 +1,4 @@
-package org.tamil.aathichudi
+package com.nts.aathichudi
 
 import android.app.Application
 import android.content.res.Configuration

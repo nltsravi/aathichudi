@@ -3,8 +3,8 @@
 ## 1. App Identifiers
 - **App Name (Tamil)**: ஆத்திச்சூடி
 - **App Name (English)**: Aathichudi — Tamil Wisdom
-- **Bundle ID (iOS)**: `org.tamil.aathichudi`
-- **Application ID (Android)**: `org.tamil.aathichudi`
+- **Bundle ID (iOS)**: `com.nts.aathichudi`
+- **Application ID (Android)**: `com.nts.aathichudi`
 - **Version**: `1.0.0`
 - **Build Number / Version Code**: `1`
 

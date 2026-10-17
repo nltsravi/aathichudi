@@ -28,7 +28,7 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>aathichudi</string>
-				<string>org.tamil.aathichudi</string>
+				<string>com.nts.aathichudi</string>
 			</array>
 		</dict>
 	</array>

@@ -21,9 +21,9 @@
 ## App Store (iOS) Submission Steps
 
 1. **Apple Developer Account**: Ensure active Apple Developer Program membership.
-2. **Bundle Identifier**: Register `org.tamil.aathichudi` in Apple Developer Portal.
+2. **Bundle Identifier**: Register `com.nts.aathichudi` in Apple Developer Portal.
 3. **App Store Connect Record**:
-   - Create new app record for `org.tamil.aathichudi`.
+   - Create new app record for `com.nts.aathichudi`.
    - Copy metadata from [STORE_LISTING.md](file:///Users/ravij/AntiGravityProjects/aathichudi/docs/STORE_LISTING.md).
    - Set Category: Education / Books.
    - Set Content Rights: Public domain classical literature.
@@ -38,7 +38,7 @@
 ## Google Play Store (Android) Submission Steps
 
 1. **Google Play Console Account**: Ensure registered Google Play developer account.
-2. **Application ID**: Verify `org.tamil.aathichudi` in `app.json` and `android/app/build.gradle`.
+2. **Application ID**: Verify `com.nts.aathichudi` in `app.json` and `android/app/build.gradle`.
 3. **Create App in Play Console**:
    - App Name: ஆத்திச்சூடி (Aathichudi)
    - Free app, no in-app purchases.
