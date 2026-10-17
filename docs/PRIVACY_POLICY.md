@@ -46,5 +46,5 @@ Because Aathichudi does not collect any personal data, it is completely safe for
 
 ## 6. Contact Information
 If you have questions or inquiries regarding this Privacy Policy, please contact:
-- **Developer / Publisher**: [INSERT DEVELOPER NAME]
-- **Contact Email**: [INSERT CONTACT EMAIL]
+- **Developer / Publisher**: Ravishankar J
+- **Contact Email**: ravijshankar@gmail.com
