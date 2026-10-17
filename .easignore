@@ -1,0 +1,40 @@
+# Dependencies & cache
+node_modules/
+.expo/
+dist/
+web-build/
+.git/
+
+# Debug and system files
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.DS_Store
+.vscode/
+*.log
+coverage/
+
+# Android local outputs and configuration
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/.idea/
+android/*.iml
+android/app/*.iml
+
+# iOS local outputs and Pods
+ios/Pods/
+ios/build/
+ios/*.xcworkspace/xcuserdata/
+ios/*.xcodeproj/xcuserdata/
+
+# Local credentials
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.mobileprovision
+.env
+.env.local
