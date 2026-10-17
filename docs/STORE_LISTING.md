@@ -89,8 +89,8 @@ Aathichudi is a completely offline educational reference app for Tamil classical
 
 ---
 
-## 7. Publisher Information Placeholders (To be provided by developer upon submission)
-- **Developer Name**: [INSERT DEVELOPER / ORGANIZATION NAME]
-- **Support Email**: [INSERT SUPPORT EMAIL, e.g. support@yourdomain.com]
-- **Privacy Policy URL**: [INSERT HOSTED URL, e.g. https://yourdomain.com/aathichudi/privacy]
-- **Marketing / Website URL**: [OPTIONAL: https://yourdomain.com/aathichudi]
+## 7. Publisher Information & Links
+- **Developer Name**: Ravishankar J (`nltsravi`)
+- **Support Email**: ravijshankar@gmail.com
+- **Privacy Policy URL**: https://nltsravi.github.io/aathichudi/
+- **Marketing / Website URL**: https://github.com/nltsravi/aathichudi

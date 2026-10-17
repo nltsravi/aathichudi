@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy — Aathichudi (ஆத்திச்சூடி)</title>
+  <meta name="description" content="Privacy Policy for Aathichudi (ஆத்திச்சூடி) mobile application. 100% offline-first, zero personal data collection, zero ads, and zero tracking.">
+  <meta name="author" content="Ravishankar J (nltsravi)">
+  <link rel="canonical" href="https://nltsravi.github.io/aathichudi/">
+  <link rel="icon" type="image/png" href="./icon.png">
+
+  <!-- Open Graph / Meta -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://nltsravi.github.io/aathichudi/">
+  <meta property="og:title" content="Privacy Policy — Aathichudi (ஆத்திச்சூடி)">
+  <meta property="og:description" content="100% offline, zero data collection privacy policy for the Aathichudi Tamil literature mobile app.">
+  <meta property="og:image" content="https://nltsravi.github.io/aathichudi/icon.png">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700&family=Mukta+Malar:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg-canvas: #FDFBF7;
+      --bg-surface: #FFFFFF;
+      --bg-card: #FFFFFF;
+      --bg-subtle: #F7F3EB;
+      --border-color: #E6DCce;
+      --border-accent: #C5A059;
+      --text-main: #2D241E;
+      --text-muted: #6B5E52;
+      --text-soft: #8C7D70;
+      --maroon-primary: #7A1C28;
+      --maroon-dark: #4A0E17;
+      --gold-accent: #C5A059;
+      --gold-light: #FBF4E4;
+      --green-badge: #1B7A43;
+      --green-bg: #E8F5EC;
+      --shadow-sm: 0 2px 8px rgba(74, 14, 23, 0.04);
+      --shadow-md: 0 8px 24px rgba(74, 14, 23, 0.08);
+      --radius-sm: 8px;
+      --radius-md: 14px;
+      --radius-lg: 20px;
+      --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      --font-tamil: 'Mukta Malar', var(--font-body);
+      --font-display: 'Cinzel', serif;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg-canvas: #141210;
+        --bg-surface: #1E1B17;
+        --bg-card: #24201B;
+        --bg-subtle: #2C2721;
+        --border-color: #3D362E;
+        --border-accent: #D4AF37;
+        --text-main: #F4EFEA;
+        --text-muted: #BBB0A4;
+        --text-soft: #8A8177;
+        --maroon-primary: #FF7F8C;
+        --maroon-dark: #FFA4AE;
+        --gold-accent: #E5C378;
+        --gold-light: #332B1A;
+        --green-badge: #4ADE80;
+        --green-bg: #143320;
+        --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+        --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.5);
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: var(--font-body);
+      background-color: var(--bg-canvas);
+      color: var(--text-main);
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Header & Hero */
+    header {
+      background: linear-gradient(180deg, var(--bg-subtle) 0%, var(--bg-canvas) 100%);
+      border-bottom: 1px solid var(--border-color);
+      padding: 48px 20px 40px;
+      text-align: center;
+      position: relative;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+
+    .app-brand {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 24px;
+    }
+
+    .app-icon {
+      width: 96px;
+      height: 96px;
+      border-radius: 22px;
+      box-shadow: var(--shadow-md);
+      border: 3px solid var(--border-accent);
+      object-fit: cover;
+      margin-bottom: 18px;
+      background-color: #4A0E17;
+    }
+
+    .tamil-title {
+      font-family: var(--font-tamil);
+      font-size: 2.25rem;
+      font-weight: 700;
+      color: var(--maroon-primary);
+      margin-bottom: 4px;
+      letter-spacing: -0.01em;
+    }
+
+    .sub-brand {
+      font-size: 1.15rem;
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+
+    h1 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin: 20px 0 10px;
+      letter-spacing: -0.02em;
+    }
+
+    .meta-bar {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      margin-top: 14px;
+      font-size: 0.88rem;
+      color: var(--text-muted);
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 12px;
+      border-radius: 999px;
+      font-weight: 600;
+      font-size: 0.8rem;
+    }
+
+    .badge-success {
+      background-color: var(--green-bg);
+      color: var(--green-badge);
+      border: 1px solid rgba(27, 122, 67, 0.2);
+    }
+
+    .badge-outline {
+      background-color: var(--bg-surface);
+      color: var(--text-muted);
+      border: 1px solid var(--border-color);
+    }
+
+    /* Core Highlights Grid */
+    .highlights-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+      margin: 36px 0 44px;
+    }
+
+    .highlight-card {
+      background-color: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      padding: 20px;
+      box-shadow: var(--shadow-sm);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .highlight-card:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-md);
+      border-color: var(--gold-accent);
+    }
+
+    .highlight-icon {
+      font-size: 1.6rem;
+      margin-bottom: 10px;
+      display: inline-block;
+    }
+
+    .highlight-title {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin-bottom: 6px;
+    }
+
+    .highlight-desc {
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+    }
+
+    /* Content Layout */
+    main {
+      padding: 40px 0 80px;
+    }
+
+    .policy-content {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 44px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    @media (max-width: 640px) {
+      .policy-content {
+        padding: 24px 18px;
+      }
+    }
+
+    .nav-index {
+      background-color: var(--bg-subtle);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      padding: 22px;
+      margin-bottom: 40px;
+    }
+
+    .nav-index h2 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 14px;
+      color: var(--maroon-primary);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .nav-index ul {
+      list-style-type: none;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 10px;
+    }
+
+    .nav-index a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.92rem;
+      font-weight: 500;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: color 0.15s ease;
+    }
+
+    .nav-index a:hover {
+      color: var(--maroon-primary);
+      text-decoration: underline;
+    }
+
+    /* Section Styling */
+    section {
+      margin-bottom: 44px;
+      scroll-margin-top: 30px;
+    }
+
+    section:last-of-type {
+      margin-bottom: 0;
+    }
+
+    h2.section-heading {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--maroon-primary);
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--border-color);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    h3 {
+      font-size: 1.08rem;
+      font-weight: 600;
+      color: var(--text-main);
+      margin: 20px 0 8px;
+    }
+
+    p {
+      margin-bottom: 16px;
+      font-size: 0.98rem;
+      color: var(--text-main);
+    }
+
+    ul, ol {
+      margin: 0 0 18px 24px;
+      color: var(--text-main);
+      font-size: 0.96rem;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    li strong {
+      color: var(--text-main);
+    }
+
+    /* Callout Boxes */
+    .callout {
+      background-color: var(--gold-light);
+      border-left: 4px solid var(--gold-accent);
+      padding: 18px 20px;
+      border-radius: var(--radius-sm);
+      margin: 22px 0;
+      font-size: 0.94rem;
+      color: var(--text-main);
+    }
+
+    .callout-title {
+      font-weight: 700;
+      color: var(--maroon-primary);
+      margin-bottom: 6px;
+    }
+
+    /* Table */
+    .table-container {
+      overflow-x: auto;
+      margin: 22px 0;
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-sm);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.92rem;
+      text-align: left;
+    }
+
+    th, td {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    th {
+      background-color: var(--bg-subtle);
+      font-weight: 700;
+      color: var(--text-main);
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    /* Contact Card */
+    .contact-card {
+      background-color: var(--bg-subtle);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      padding: 24px;
+      margin-top: 18px;
+    }
+
+    .contact-card p {
+      margin-bottom: 10px;
+    }
+
+    .btn-contact {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background-color: #7A1C28;
+      color: #FFFFFF !important;
+      font-weight: 600;
+      padding: 10px 20px;
+      border-radius: var(--radius-sm);
+      text-decoration: none;
+      margin-top: 10px;
+      transition: background 0.2s ease;
+    }
+
+    .btn-contact:hover {
+      background-color: #55121B;
+    }
+
+    /* Footer */
+    footer {
+      background-color: var(--bg-surface);
+      border-top: 1px solid var(--border-color);
+      padding: 36px 20px;
+      text-align: center;
+      font-size: 0.88rem;
+      color: var(--text-muted);
+    }
+
+    footer a {
+      color: var(--maroon-primary);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* Print styles */
+    @media print {
+      body {
+        background: #fff;
+        color: #000;
+      }
+      .nav-index, .btn-contact {
+        display: none;
+      }
+      .policy-content {
+        border: none;
+        padding: 0;
+        box-shadow: none;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <div class="app-brand">
+        <img src="./icon.png" alt="Aathichudi App Icon" class="app-icon" width="96" height="96" onerror="this.style.display='none'">
+        <div class="tamil-title">ஆத்திச்சூடி</div>
+        <div class="sub-brand">Aathichudi — Classical Tamil Wisdom</div>
+      </div>
+      <h1 id="top-title">Privacy Policy</h1>
+      <div class="meta-bar">
+        <span class="badge badge-success">✓ 100% Offline &amp; Ad-Free</span>
+        <span class="badge badge-outline">Effective Date: October 17, 2026</span>
+        <span class="badge badge-outline">Bundle ID: com.nts.aathichudi</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+
+      <!-- Highlights Grid -->
+      <div class="highlights-grid">
+        <div class="highlight-card">
+          <div class="highlight-icon">🔒</div>
+          <div class="highlight-title">Zero Data Collection</div>
+          <div class="highlight-desc">No accounts, no email, no analytics SDKs, and no behavioral tracking.</div>
+        </div>
+        <div class="highlight-card">
+          <div class="highlight-icon">📱</div>
+          <div class="highlight-title">Local On-Device Storage</div>
+          <div class="highlight-desc">Your favorites, custom collections, and reading progress remain strictly on your device.</div>
+        </div>
+        <div class="highlight-card">
+          <div class="highlight-icon">🚫</div>
+          <div class="highlight-title">No Ads or Trackers</div>
+          <div class="highlight-desc">100% ad-free experience with zero commercial advertising networks or tracking pixels.</div>
+        </div>
+        <div class="highlight-card">
+          <div class="highlight-icon">👨‍👩‍👧‍👦</div>
+          <div class="highlight-title">Family &amp; Children Safe</div>
+          <div class="highlight-desc">Fully compliant with COPPA and age-appropriate design standards for all audiences.</div>
+        </div>
+      </div>
+
+      <!-- Main Policy Container -->
+      <article class="policy-content">
+
+        <!-- Table of contents -->
+        <nav class="nav-index" aria-label="Table of Contents">
+          <h2>Contents</h2>
+          <ul>
+            <li><a href="#overview">1. Overview &amp; Scope</a></li>
+            <li><a href="#no-data">2. Information We Do Not Collect</a></li>
+            <li><a href="#local-storage">3. Local Device Storage</a></li>
+            <li><a href="#permissions">4. Device Permissions Explained</a></li>
+            <li><a href="#third-parties">5. Third-Party Services &amp; SDKs</a></li>
+            <li><a href="#children">6. Children's Privacy (COPPA)</a></li>
+            <li><a href="#data-deletion">7. Data Retention &amp; Deletion</a></li>
+            <li><a href="#store-compliance">8. App Store &amp; Play Store Declarations</a></li>
+            <li><a href="#policy-changes">9. Policy Updates</a></li>
+            <li><a href="#contact">10. Contact Information</a></li>
+          </ul>
+        </nav>
+
+        <!-- Section 1 -->
+        <section id="overview">
+          <h2 class="section-heading">1. Overview &amp; Scope</h2>
+          <p>
+            <strong>Aathichudi (ஆத்திச்சூடி)</strong> ("we", "our", or "the app") is a mobile application created for discovering, reading, and learning the timeless verses of classical Tamil literature, including <strong>Avvaiyar's Aathichudi</strong> and <strong>Mahakavi Subramania Bharati's Puthiya Aathichudi</strong>.
+          </p>
+          <p>
+            We are dedicated to safeguarding your privacy. We believe classical educational literature should be read in an environment free from surveillance, advertising interruptions, or behavioral tracking. This document describes how data is handled when you use the Aathichudi application on iOS and Android devices.
+          </p>
+        </section>
+
+        <!-- Section 2 -->
+        <section id="no-data">
+          <h2 class="section-heading">2. Information We Do NOT Collect</h2>
+          <p>
+            Aathichudi operates strictly on an <strong>offline-first architecture</strong>. We do not maintain any cloud database, user management service, or remote logging infrastructure.
+          </p>
+          <ul>
+            <li><strong>No Personal Identifiers:</strong> We do not require or collect your name, email address, telephone number, billing information, or social media accounts.</li>
+            <li><strong>No Usage Tracking:</strong> We do not record which poems you read, how long you spend in the app, your search queries, or reading speed.</li>
+            <li><strong>No Device Fingerprinting:</strong> We do not collect Advertising Identifiers (such as Apple IDFA or Google GAID), hardware serial numbers, IMEI, or IP geolocation.</li>
+            <li><strong>No Remote Crash Reporting:</strong> The app does not transmit device state or crash dumps to external tracking servers.</li>
+          </ul>
+        </section>
+
+        <!-- Section 3 -->
+        <section id="local-storage">
+          <h2 class="section-heading">3. Local Device Storage</h2>
+          <p>
+            To provide a modern, convenient reading experience, the app stores your personal usage records locally inside your operating system's private sandboxed SQLite database:
+          </p>
+          <ul>
+            <li><strong>Bookmarked Favorites:</strong> Poems you choose to star for fast access.</li>
+            <li><strong>Personal Collections:</strong> Custom groupings and study lists you build (e.g., "Morning Verses", "School Exam Prep").</li>
+            <li><strong>Reading Progress:</strong> Percentage completion metrics showing your completed verses.</li>
+            <li><strong>Display Settings:</strong> Your preferred theme (Light/Dark/System), font size, and notification schedule preferences.</li>
+          </ul>
+          <div class="callout">
+            <div class="callout-title">🔒 Absolute Data Sovereignty</div>
+            All of the above records stay strictly on your physical phone or tablet. They are never synchronized to our servers, never backed up to remote endpoints by us, and are not accessible to any third-party app.
+          </div>
+        </section>
+
+        <!-- Section 4 -->
+        <section id="permissions">
+          <h2 class="section-heading">4. Device Permissions Explained</h2>
+          <p>
+            Aathichudi asks for device permissions solely to support explicit features that you activate:
+          </p>
+          <ul>
+            <li>
+              <strong>Local Notifications (POST_NOTIFICATIONS / UserNotifications):</strong>
+              <br>
+              <em>When used:</em> When you activate the "Daily Verse Reminder" in Settings.
+              <br>
+              <em>How it works:</em> The notification is scheduled locally by the operating system’s timer. No remote push server, push tokens, or internet connections are used. You can disable this anytime in Settings.
+            </li>
+            <li>
+              <strong>Photo Gallery / Storage (NSPhotoLibraryAddUsageDescription):</strong>
+              <br>
+              <em>When used:</em> Only when you tap "Save to Photos" on the 9:16 verse card generator.
+              <br>
+              <em>How it works:</em> Permission is used exclusively to write the newly generated card image to your gallery. The app does not read, inspect, or modify existing photos in your library.
+            </li>
+            <li>
+              <strong>System Share Dialog:</strong>
+              <br>
+              <em>When used:</em> When you tap "Share" on a poem or PDF collection.
+              <br>
+              <em>How it works:</em> Handled entirely by the iOS or Android native share sheet. We do not see or record the recipient or destination application.
+            </li>
+          </ul>
+        </section>
+
+        <!-- Section 5 -->
+        <section id="third-parties">
+          <h2 class="section-heading">5. Third-Party Services &amp; SDKs</h2>
+          <p>
+            Aathichudi does not integrate commercial SDKs or third-party web services:
+          </p>
+          <ul>
+            <li><strong>No Ad Networks:</strong> No Google AdMob, Unity Ads, AppLovin, or Meta Audience Network.</li>
+            <li><strong>No Analytics:</strong> No Google Analytics, Firebase, Mixpanel, Segment, or Facebook SDK.</li>
+            <li><strong>No Cloud Sync:</strong> All literature and explanations are stored locally in the app bundle.</li>
+          </ul>
+        </section>
+
+        <!-- Section 6 -->
+        <section id="children">
+          <h2 class="section-heading">6. Children’s Privacy (COPPA &amp; Family Friendly)</h2>
+          <p>
+            Aathichudi is an educational tool suitable for students, children, and families of all ages (PEGI 3 / Everyone / 4+).
+          </p>
+          <p>
+            We strictly comply with the <strong>Children's Online Privacy Protection Act (COPPA)</strong> and international children's privacy regulations. Because we do not collect any personal data from anyone, we do not knowingly or unknowingly collect personal information from children under 13 (or under 16 where applicable). The app does not offer public chat rooms, external hyperlinks to uncontrolled web domains, or user accounts.
+          </p>
+        </section>
+
+        <!-- Section 7 -->
+        <section id="data-deletion">
+          <h2 class="section-heading">7. Data Retention &amp; Deletion</h2>
+          <p>
+            Because we do not store your data on external servers, you have total control over your local data at all times:
+          </p>
+          <ul>
+            <li><strong>Reset within App:</strong> You can clear your favorites, collections, and progress directly through the app interface.</li>
+            <li><strong>System App Storage Clear:</strong> On Android, you can go to <em>Settings &gt; Apps &gt; Aathichudi &gt; Storage &gt; Clear Data</em>.</li>
+            <li><strong>Uninstallation:</strong> Removing the app from your device immediately and permanently deletes all local databases and preference files.</li>
+          </ul>
+        </section>
+
+        <!-- Section 8 -->
+        <section id="store-compliance">
+          <h2 class="section-heading">8. App Store &amp; Google Play Store Declarations</h2>
+          <p>
+            For transparency during app review and store compliance, here is our explicit data declaration:
+          </p>
+          <div class="table-container">
+            <table>
+              <thead>
+                <tr>
+                  <th>Compliance Category</th>
+                  <th>Status</th>
+                  <th>Details</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Data Collection</strong></td>
+                  <td>None</td>
+                  <td>No user data collected or transmitted</td>
+                </tr>
+                <tr>
+                  <td><strong>Data Sharing</strong></td>
+                  <td>None</td>
+                  <td>Zero data shared with third parties</td>
+                </tr>
+                <tr>
+                  <td><strong>Cross-App Tracking</strong></td>
+                  <td>No</td>
+                  <td>No tracking across other apps or websites</td>
+                </tr>
+                <tr>
+                  <td><strong>Target Audience</strong></td>
+                  <td>All Ages</td>
+                  <td>Child and family friendly (COPPA compliant)</td>
+                </tr>
+                <tr>
+                  <td><strong>Advertisements</strong></td>
+                  <td>No Ads</td>
+                  <td>Zero commercial ad networks included</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <!-- Section 9 -->
+        <section id="policy-changes">
+          <h2 class="section-heading">9. Changes to This Privacy Policy</h2>
+          <p>
+            We may update this Privacy Policy from time to time to accommodate application updates or regulatory standards. Any modifications will be posted here at <code>https://nltsravi.github.io/aathichudi/</code> with an updated revision date. We encourage users to check this page occasionally.
+          </p>
+        </section>
+
+        <!-- Section 10 -->
+        <section id="contact">
+          <h2 class="section-heading">10. Contact Information</h2>
+          <p>
+            If you have questions, feedback, or concerns regarding this Privacy Policy, please feel free to contact the maintainer:
+          </p>
+          <div class="contact-card">
+            <p><strong>Developer / Publisher:</strong> Ravishankar J (nltsravi)</p>
+            <p><strong>Email:</strong> <a href="mailto:ravijshankar@gmail.com">ravijshankar@gmail.com</a></p>
+            <p><strong>Alternate Contact:</strong> <a href="mailto:ravi@neolumina.in">ravi@neolumina.in</a></p>
+            <p><strong>Project Repository:</strong> <a href="https://github.com/nltsravi/aathichudi" target="_blank" rel="noopener">github.com/nltsravi/aathichudi</a></p>
+            <p><strong>Official Hosted URL:</strong> <a href="https://nltsravi.github.io/aathichudi/">https://nltsravi.github.io/aathichudi/</a></p>
+            <a href="mailto:ravijshankar@gmail.com" class="btn-contact">✉ Contact Developer</a>
+          </div>
+        </section>
+
+      </article>
+
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>© 2026 <strong>Aathichudi (ஆத்திச்சூடி)</strong>. Built with devotion to classical Tamil literature.</p>
+      <p style="margin-top: 6px;">
+        <a href="https://github.com/nltsravi/aathichudi" target="_blank" rel="noopener">GitHub Repository</a> • 
+        <a href="#top-title">Back to Top ↑</a>
+      </p>
+    </div>
+  </footer>
+
+</body>
+</html>
