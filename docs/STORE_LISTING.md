@@ -94,3 +94,22 @@ Aathichudi is a completely offline educational reference app for Tamil classical
 - **Support Email**: ravijshankar@gmail.com
 - **Privacy Policy URL**: https://nltsravi.github.io/aathichudi/
 - **Marketing / Website URL**: https://github.com/nltsravi/aathichudi
+
+---
+
+## 8. Google Play Store Graphical Assets
+
+All store listing images and screenshots are pre-rendered at Google Play Console specifications:
+
+| Asset Name | Target Resolution | Aspect Ratio | File Location | Purpose |
+|---|---|---|---|---|
+| **App Icon** | 512 x 512 px | 1:1 | `assets/store/icon-512.png` | Google Play Store app icon (PNG) |
+| **Feature Graphic** | 1024 x 500 px | ~2:1 | `assets/store/feature-graphic.png` | Play Store top promotional banner |
+| **Phone Screenshot 1** | 1080 x 2400 px | 20:9 | `assets/store/phone/screenshot_1_home.png` | Home screen (Daily reflection & offline access) |
+| **Phone Screenshot 2** | 1080 x 2400 px | 20:9 | `assets/store/phone/screenshot_2_verse_reader.png` | Verse Reader (Word-by-word meaning & explanation) |
+| **Phone Screenshot 3** | 1080 x 2400 px | 20:9 | `assets/store/phone/screenshot_3_poet_collection.png` | Poet Collections (Avvaiyar & Bharathiyar 219+ verses) |
+| **Phone Screenshot 4** | 1080 x 2400 px | 20:9 | `assets/store/phone/screenshot_4_status_card.png` | WhatsApp Status Card & Social Story Generator |
+| **Phone Screenshot 5** | 1080 x 2400 px | 20:9 | `assets/store/phone/screenshot_5_search.png` | Instant Offline Search across Tamil verses |
+| **Phone Screenshot 6** | 1080 x 2400 px | 20:9 | `assets/store/phone/screenshot_6_bharathiyar.png` | Bharathiyar Puthiya Aathichudi reader |
+| **7-inch Tablet** | 1200 x 1920 px | 16:10 | `assets/store/tablet-7inch/tablet7_home.png` | 7" tablet showcase |
+| **10-inch Tablet** | 1600 x 2560 px | 16:10 | `assets/store/tablet-10inch/tablet10_verse.png` | 10" tablet showcase |
